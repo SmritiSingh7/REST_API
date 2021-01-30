@@ -1,8 +1,6 @@
 # REST_API
-A REST API for Node,express and Mysql
 
-
-A simple REST_API creation for Hospital Management system.
+A simple REST_API creation using NodeJS,express and Mysql
 
 Before using
 
